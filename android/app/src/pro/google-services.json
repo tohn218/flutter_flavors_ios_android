@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "511070317084",
+    "firebase_url": "https://flavors-pro-f16f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flavors-pro-f16f1",
+    "storage_bucket": "flavors-pro-f16f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511070317084:android:01ac9c2e163a02739e0dd9",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PGy0xo0R0sf49ifsGEEElsLY2O60_uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
